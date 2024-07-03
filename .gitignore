@@ -1,0 +1,119 @@
+# SourceControlGenerator #
+##########################
+SourceControlGenerator.json
+
+# Levels
+######################
+Mods/TalentFix_de70a9b1-9ed7-44d7-850a-d39f007e579c/Levels/*
+Mods/TalentFix_de70a9b1-9ed7-44d7-850a-d39f007e579c/Globals/*
+Editor/Mods/TalentFix_de70a9b1-9ed7-44d7-850a-d39f007e579c/Levels/*
+
+# Story files        #
+######################
+*.div
+*.raw
+story_orphanqueries_ignore.txt
+Mods/TalentFix_de70a9b1-9ed7-44d7-850a-d39f007e579c/Story/Dialogs/Autosave/*
+Mods/TalentFix_de70a9b1-9ed7-44d7-850a-d39f007e579c/Story/Dialogs/Recovered/*
+
+# Asset Folders      #
+######################
+Public/TalentFix_de70a9b1-9ed7-44d7-850a-d39f007e579c/Assets/*
+#Public/TalentFix_de70a9b1-9ed7-44d7-850a-d39f007e579c/GUI/*
+
+# Editor files       #
+######################
+RootTemplateSelectorConfig_*
+ResourceSelectorConfig_*
+StatsEditorConfig.xml
+EffectEditorConfig.xml
+DockPanel.config
+EditorBrowserMetadata_*
+EditorBrowserMetadata.xml
+Autosave/*
+Recovered/*
+ReConHistory.txt
+story.debugInfo
+
+# Assets             #
+######################
+*.gr2
+*.dae
+*.swf
+*.bullet
+*.dds
+*.tga
+*.png
+*.ttf
+*.lsb
+*.lsf
+*.lsfx
+*.lsefx
+#*.lsx
+*.lsmg
+
+# Logs               #
+######################
+*.log
+*.ailog
+log.txt
+errors.txt
+dialoglog.txt
+personallog.txt
+
+# Binary Files       #
+######################
+*.dat
+*.data
+*.bik
+*.bnk
+*.bshd
+*.cur
+*.fnt
+*.iggy
+*.iggytex
+*.osi
+*.patch
+*.tmpl
+
+# Dump files         #
+######################
+*.stackdump
+*.dmp
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# VS Code #
+############
+launch.json
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.lnk
+
+

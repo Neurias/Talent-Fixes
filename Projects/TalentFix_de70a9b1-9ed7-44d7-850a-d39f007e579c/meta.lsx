@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" />
+    <version major="3" minor="6" revision="6" build="0" />
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="Module" value="de70a9b1-9ed7-44d7-850a-d39f007e579c" type="23" />
+            <attribute id="Name" value="TalentFix" type="23" />
+            <attribute id="Type" value="Add-on" type="23" />
+            <attribute id="UUID" value="25a559b6-210c-4fc3-b712-afbac101aa1c" type="23" />
+        </node>
+    </region>
+</save>
